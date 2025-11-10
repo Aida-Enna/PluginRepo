@@ -1,20 +1,49 @@
-  {
-    "Author": "NightmareXIV",
-    "Name": "AntiAfkKick",
-    "Punchline": "A Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. Install and forget, no config needed.",
-    "Description": "A Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. Install and forget, no config needed.",
-    "Changelog": "- 7.3",
-    "IsHide": false,
-    "InternalName": "AntiAfkKick-Dalamud",
-    "AssemblyVersion": "2.1.0.9",
-    "IsTestingExclusive": false,
-    "RepoUrl": "https://github.com/NightmareXIV/AntiAfkKick",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 13,
-    "DownloadCount": 217793,
-    "LastUpdate": 1754531906,
-    "DownloadLinkInstall": "https://github.com/Aida-Enna/PluginRepo/blob/main/AntiAfkKick/latest.zip?raw=true",
-    "DownloadLinkUpdate": "https://github.com/Aida-Enna/PluginRepo/blob/main/AntiAfkKick/latest.zip?raw=true",
-    "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/AntiAfkKick/master/AntiAfkKick-Dalamud/images/icon.png"
-  }
+[
+   {
+      "Author":"NightmareXIV",
+      "Name":"AntiAfkKick",
+      "Punchline":"A Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. Install and forget, no config needed.",
+      "Description":"A Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. Install and forget, no config needed.",
+      "Changelog":"- 7.3",
+      "IsHide":false,
+      "InternalName":"AntiAfkKick-Dalamud",
+      "AssemblyVersion":"2.1.0.9",
+      "IsTestingExclusive":false,
+      "RepoUrl":"https://github.com/NightmareXIV/AntiAfkKick",
+      "ApplicableVersion":"any",
+      "DalamudApiLevel":13,
+      "DownloadCount":217793,
+      "LastUpdate":1754531906,
+      "DownloadLinkInstall":"https://github.com/Aida-Enna/PluginRepo/blob/main/AntiAfkKick/latest.zip?raw=true",
+      "DownloadLinkUpdate":"https://github.com/Aida-Enna/PluginRepo/blob/main/AntiAfkKick/latest.zip?raw=true",
+      "SupportsProfiles":true,
+      "IconUrl":"https://raw.githubusercontent.com/NightmareXIV/AntiAfkKick/master/AntiAfkKick-Dalamud/images/icon.png"
+   },
+   {
+      "Author":"UnknownX",
+      "Name":"NoClippy",
+      "Punchline":"Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
+      "Description":"Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
+      "Changelog":"Fixed for 7.3 (Thanks to Zeffuro)",
+      "InternalName":"NoClippy",
+      "AssemblyVersion":"0.5.0.19",
+      "RepoUrl":"https://github.com/UnknownX7/NoClippy",
+      "ApplicableVersion":"any",
+      "CategoryTags":[
+         "jobs",
+         "utility"
+      ],
+      "DalamudApiLevel":13,
+      "IconUrl":"",
+      "ImageUrls":[
+         ""
+      ],
+      "DownloadLinkInstall":"https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.19/latest.zip",
+      "IsHide":false,
+      "IsTestingExclusive":false,
+      "DownloadLinkTesting":"https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.19/latest.zip",
+      "DownloadLinkUpdate":"https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.19/latest.zip",
+      "DownloadCount":0,
+      "LastUpdate":"1754723794"
+   }
+]
